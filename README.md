@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Jonathan!</h1>
 <h3 align="center">A passionate and hardworking Full-Stack Software Developer</h3>
 
-- 🔭 I’m currently working on [MyBank](http://34.219.50.36/)
+- 🔭 I’m currently working on [MyBank](http://34.219.50.36/) | [Git Repo](https://github.com/JonathanJCisneros/MyBank)
 
 - 🌱 I’m currently learning **MERN (MongoDB, Express, React and Node.js)**
 
