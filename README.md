@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my bootcamp experience!**
 
-- 📫 How to reach me [Email](mailto:jonathan.james.cisneros@outlook.com)
+- 📫 How to reach me **jonathan.james.cisneros@outlook.com**
 
 - ⚡ Fun fact **I love to travel, camp, and hike**
 
