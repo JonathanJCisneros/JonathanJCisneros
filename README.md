@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Share](https://github.com/JonathanJCisneros/share)
 
-- 🌱 I’m currently learning **MERN (MongoDB, Express, React and Node.js)**
+- 🌱 I’m currently learning **C#/.NET**
 
 - 💬 Ask me about **my bootcamp experience!**
 
