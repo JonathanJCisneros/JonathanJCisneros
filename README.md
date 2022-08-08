@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Jonathan!</h1>
 <h3 align="center">A passionate and hardworking Full-Stack Software Developer | Engineer</h3>
 
-- 🔭 I’m currently working on [Share](https://github.com/JonathanJCisneros/share)
+- 🔭 I’m currently working on [Share.](https://github.com/JonathanJCisneros/share)
 
 - 🌱 I’m currently learning **C#/.NET**
 
