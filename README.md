@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyCRM](https://github.com/JonathanJCisneros/MyCRM)
 
-- 🌱 I’m currently learning **C#/.NET**
+- 🌱 I’m currently learning **React Native/Firebase**
 
 - 💬 Ask me about **my bootcamp experience!**
 
