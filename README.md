@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyCRM (NoSQL)](https://github.com/JonathanJCisneros/MyCRM_NoSQL)
 
-- 🌱 I’m currently learning **React Native/Firebase**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 💬 Ask me about **my bootcamp experience!**
 
