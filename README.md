@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Jonathan!</h1>
 <h3 align="center">A passionate and hardworking Full-Stack Software Developer | Engineer</h3>
 
-- 🔭 I’m currently working on [MyCRM (NoSQL)](https://github.com/JonathanJCisneros/MyCRM_NoSQL)
+- 🔭 I’m currently working on [Portfolio V2](https://github.com/JonathanJCisneros/PortfolioV2)
 
 - 🌱 I’m currently learning **Clean Architecture**
 
