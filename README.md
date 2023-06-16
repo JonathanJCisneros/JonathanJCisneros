@@ -15,8 +15,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjcisneros&show_icons=true&locale=en&layout=compact" alt="jonathanjcisneros" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanjcisneros&show_icons=true&locale=en" alt="jonathanjcisneros" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanjcisneros&" alt="jonathanjcisneros" /></p>
 
 
