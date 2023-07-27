@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my bootcamp experience!**
 
-- 🖥️ Check out my Portfolio: [www.jcisneros.dev] **Under construction!**
+- 🖥️ Check out my [Portfolio](www.jcisneros.dev) \*\***Under construction!**\*\*
 
 - 📫 How to reach me **jonathan.james.cisneros@outlook.com**
 
