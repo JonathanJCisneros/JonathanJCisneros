@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, my name is Jonathan!</h1>
 <h3 align="center">A passionate and hardworking Full-Stack Software Developer | Engineer</h3>
-
-- 🔭 I’m currently working on [Event Planner](https://github.com/JonathanJCisneros/EventPlanner)
-
-- 🌱 I’m currently learning **Vue.js Framework + .NET Core API on Clean Architecture**
-
-- 💬 Ask me about **my current employment or bootcamp experience!**
-
-- 🖥️ Check out my [Portfolio](http://www.jcisnerosdev.net) - Under Construction!
-
-- 📫 How to reach me **jonathan.james.cisneros@outlook.com**
-
-- ⚡ Fun fact **I love to travel, camp, and hike**
-
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/JonathanJCisneros/EventPlanner">Event Planner</a></li>
+  <li>🌱 I’m currently learning <b>Vue.js Framework + .NET Core API on Clean Architecture</b></li>
+  <li>💬 Ask me about **my current employment or bootcamp experience!**</li>
+  <li>🖥️ Check out my <a href="https://www.jcisnerosdev.net">Portfolio</a> - <b>Under Construction</b></li>
+  <li>📫 You can reach out to me at <a href="jonathan.james.cisneros@outlook.com">My Email</a></li>
+  <li>⚡ Fun fact <b>I love to travel, camp, and hike</b></li>
+</ul>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjcisneros&show_icons=true&locale=en&layout=compact" alt="jonathanjcisneros" />
 </p>
@@ -77,11 +72,5 @@
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jonathanjcisneros" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathanjcisneros" height="30" width="40" />
   </a>
 </p>
