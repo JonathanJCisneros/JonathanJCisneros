@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and hardworking Full-Stack Software Developer | Engineer</h3>
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/JonathanJCisneros/EventPlanner">Event Planner</a></li>
-  <li>🌱 I’m currently learning <b>Vue.js Framework w/ Typescript + .NET Core API on Clean Architecture</b></li>
+  <li>🌱 I’m currently learning <b>Vue.js Framework w/ TypeScript + .NET Core API on Clean Architecture</b></li>
   <li>💬 Ask me about <b>my current employment and bootcamp experience</b>!</li>
   <li>🖥️ Check out my <a href="https://www.jcisnerosdev.net">Portfolio</a> - <b>Under Construction</b></li>
   <li>📫 You can reach out to me at <a href="mailto:jonathan.james.cisneros@outlook.com">My Email</a></li>
