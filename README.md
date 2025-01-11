@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/JonathanJCisneros/EventPlanner">Event Planner</a></li>
   <li>🌱 I’m currently learning <b>Vue.js Framework + .NET Core API on Clean Architecture</b></li>
-  <li>💬 Ask me about **my current employment or bootcamp experience!**</li>
+  <li>💬 Ask me about <b>my current employment and bootcamp experience</b>!</li>
   <li>🖥️ Check out my <a href="https://www.jcisnerosdev.net">Portfolio</a> - <b>Under Construction</b></li>
   <li>📫 You can reach out to me at <a href="jonathan.james.cisneros@outlook.com">My Email</a></li>
   <li>⚡ Fun fact <b>I love to travel, camp, and hike</b></li>
